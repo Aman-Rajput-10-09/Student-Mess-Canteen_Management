@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702283056049",
+    "project_id": "mess-management-c42b2",
+    "storage_bucket": "mess-management-c42b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702283056049:android:ab80322725381f3c9f3390",
+        "android_client_info": {
+          "package_name": "com.example.userhostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB92HoqQrrXZHJCaMpMZZ9qbi5iYFGohHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
