@@ -145,7 +145,7 @@ fun LoginScreen(
                             .setGoogleIdTokenRequestOptions(
                                 BeginSignInRequest.GoogleIdTokenRequestOptions.builder()
                                     .setSupported(true)
-                                    .setServerClientId("702283056049-84cmvd97b7fmispvkrh3bp5aut8a6rhm.apps.googleusercontent.com")
+                                    .setServerClientId("your-web-id")
                                     .setFilterByAuthorizedAccounts(true)
                                     .build()
                             )
